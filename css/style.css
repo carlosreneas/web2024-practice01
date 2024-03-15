@@ -1,0 +1,13 @@
+body {
+	background-color: lightcyan;
+	font-family: sans-serif;
+}
+
+h1 {
+	color: blueviolet;
+}
+
+table {
+	border-style: solid;
+	border-width: 1px;
+}
